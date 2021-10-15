@@ -68,7 +68,7 @@ span.psw {
 </head>
 <body>
 
-<h2>Login Form SPoddar WEB PEG</h2>
+<h2>My test peg</h2>
 
 <form action="/action_page.php" method="post">
   <div class="imgcontainer">
